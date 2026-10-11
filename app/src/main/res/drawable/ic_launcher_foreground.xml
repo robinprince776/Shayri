@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Circular ornamental halo border -->
+        <path
+            android:strokeColor="#40C6A66B"
+            android:strokeWidth="1.2"
+            android:fillColor="#00000000"
+            android:pathData="M 54, 25 A 29, 29 0 1, 0 54, 83 A 29, 29 0 1, 0 54, 25 Z" />
+
+        <!-- Outer decorative dots -->
+        <path
+            android:fillColor="#C6A66B"
+            android:pathData="M 54,23 a 1.5,1.5 0 1,0 0.001,0 Z M 54,85 a 1.5,1.5 0 1,0 0.001,0 Z M 23,54 a 1.5,1.5 0 1,0 0.001,0 Z M 85,54 a 1.5,1.5 0 1,0 0.001,0 Z" />
+
+        <!-- Poetic Quill & Calligraphy Nib Emblem -->
+        <!-- Feather feather vane left -->
+        <path
+            android:fillColor="#E6F3EBDD"
+            android:pathData="M 54,28 C 47,34 40,43 43,55 C 46,55 49,53 52,50 C 50,56 46,61 49,66 L 53,68 C 53,62 53,40 54,28 Z" />
+
+        <!-- Feather feather vane right & spine -->
+        <path
+            android:fillColor="#D4C6A66B"
+            android:pathData="M 54,28 C 61,34 68,43 65,55 C 62,55 59,53 56,50 C 58,56 62,61 59,66 L 55,68 C 55,62 55,40 54,28 Z" />
+
+        <!-- Fountain Pen Nib base -->
+        <path
+            android:fillColor="#C6A66B"
+            android:pathData="M 46,67 L 62,67 L 60,74 L 56,79 L 54,82 L 52,79 L 48,74 Z" />
+
+        <!-- Nib Breather Hole & Ink Slit -->
+        <path
+            android:fillColor="#101014"
+            android:pathData="M 54,71 a 1.8,1.8 0 1,0 0.001,0 Z M 53.6,72 L 54.4,72 L 54.2,82 L 53.8,82 Z" />
+
+        <!-- Nib inner engravings (luxury details) -->
+        <path
+            android:strokeColor="#101014"
+            android:strokeWidth="0.8"
+            android:fillColor="#00000000"
+            android:pathData="M 49,71 Q 54,73 59,71" />
+    </group>
+</vector>

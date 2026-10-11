@@ -1,0 +1,6 @@
+{
+  "name": "SUKHAN",
+  "description": "A home for words, poets & untold feelings. Made by Prince Thakur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
